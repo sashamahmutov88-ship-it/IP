@@ -1,0 +1,43 @@
+body {
+	background-image: url("images/background-gif");
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+#container {
+	background-color: white; 
+	border: 10px white solid;
+}
+
+.entry {
+	background-color: #E8FBFB;
+	padding: 5px;
+	margin-top: 10px;
+	border: 4px #C2E9E9 solid;
+	border-radius: 15px;
+	text-align: justify;
+}
+
+.date {
+	border-bottom-style: dashed;
+	border-bottom-width: 2px;
+	border-bottom-color: blue;
+
+}
+
+.spacer {
+	clear: right;
+}
+
+.entry img {
+	float:right;
+}
+
+#header {
+	background-color: #A8F0F0;
+	text-align: right;
+}
+
+#header	 h2 {
+	font-size: 14pt;
+}
